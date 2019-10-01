@@ -16,7 +16,7 @@ img{
     height: 100vh;
     text-align: center;
 }
-.home.container {
+.home .container {
     padding-top: 40vh;
     text-align: center;
 }
